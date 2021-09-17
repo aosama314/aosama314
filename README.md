@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Ahmed Osama
+- 👀 I’m interested in Software Engineering and software technologies.
+- 🌱 I’m currently learning JavaScript Front-End Packages and C# .NET Core.
+- 📫 You could contact me on aosama314@gmail.com or https://www.linkedin.com/in/ahmed-osama-10a172164/
